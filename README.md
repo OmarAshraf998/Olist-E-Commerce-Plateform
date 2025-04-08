@@ -5,3 +5,4 @@ Market Overview: Summarizes total orders, revenue, sellers, and states sales dat
 Client Insights: Analyzes client demographics with number of sold orders and
 Financial & Regional Performance: Visualizes reveues trends by seller and customer categories
 
+![WhatsApp Image 2025-03-30 at 22 03 08_dd7a63dd](https://github.com/user-attachments/assets/91a4f9d1-6aac-4d5b-93a2-bb7a74e5dd47)
