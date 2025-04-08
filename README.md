@@ -6,3 +6,10 @@ Client Insights: Analyzes client demographics with number of sold orders and
 Financial & Regional Performance: Visualizes reveues trends by seller and customer categories
 
 ![WhatsApp Image 2025-03-30 at 22 03 08_dd7a63dd](https://github.com/user-attachments/assets/91a4f9d1-6aac-4d5b-93a2-bb7a74e5dd47)
+
+![WhatsApp Image 2025-03-30 at 22 03 40_2cdb90e4](https://github.com/user-attachments/assets/f1d75adf-e2e0-4a2a-a248-6973de03cbb8)
+
+![WhatsApp Image 2025-03-30 at 22 04 40_ab76560b](https://github.com/user-attachments/assets/4b4eae73-5a2c-4e4e-bda4-8acdfc7a6f51)
+
+![WhatsApp Image 2025-03-30 at 22 05 08_c61e01f3](https://github.com/user-attachments/assets/0c51b5c0-07a3-4a2e-9b34-53a5b8627a1c)
+
